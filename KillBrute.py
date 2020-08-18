@@ -34,6 +34,7 @@ print '     ( /   `-._//^`               '
 print '      `Y-.___(__}                 '
 print '       |    {__)                  '
 print '            ()   V.1.0            '
+
 main()
 print '[1] start the attack'
 print '[2] exit'
@@ -66,6 +67,7 @@ def login():
         system('clear')
         main()
         print '[+] this account has been hacked, password :' + password + ' ^_^'
+        
         break
         else:
           print '[!] password not found => ' + password
