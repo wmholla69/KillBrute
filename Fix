@@ -1,0 +1,21 @@
+import argparse
+import shutil
+
+if __name__ == '__main__':
+  parser = argparse.ArgumentParser()
+  parser.add_argument('-f', '--file', type = str, help='Specify filename.')
+  parser.add_argument('-s', '--spaces', type = int, default = 4,
+      help='Specify number of spaces. Default: %(default)s')
+args = parser.parse_args()
+
+shutil.copyfile(args.file, args.file + '.bkp')
+
+lines = []
+
+with open(args.file, 'r') as f:
+  for line in f:
+    line = line.replace('\t', ' '*args.spaces)
+    lines.append(line)
+    
+with open(args.file, 'w') as f:
+  f.writelines(lines)
