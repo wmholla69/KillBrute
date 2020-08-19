@@ -1,5 +1,5 @@
 # KillBrute
-Subscribe my YouTube CHANNEL:
+Subscribe my YouTube CHANNEL:https://m.youtube.com/channel/UCCxGOW_WQP0atzWTp_8TPTg
 
 Installation:
 apt update && apt upgrade
@@ -26,11 +26,11 @@ python2 KillBrute.py
 
 Option:(choose 1 to start attack or 2 to Exit)
 
-Enter Worldlist:(create yourself or download from here:)
+Enter Worldlist:(create yourself or download from here:https://www.mediafire.com/download/kvj64bc81s7weqb)
 
 Starting Bruteforce.......
 
 Just wait for it
 
 Screenshot:
-!()https://drive.google.com/field/d/1YmHGAtglgSlcipJRTNhvkjVG0SLuRsL6/view?usp=drivesdk
+
