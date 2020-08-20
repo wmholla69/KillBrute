@@ -33,4 +33,4 @@ Starting Bruteforce.......
 Just wait for it
 
 Screenshot:
-file:///storage/emulated/0/Favourite/20
+
