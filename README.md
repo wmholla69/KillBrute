@@ -32,4 +32,5 @@ Starting Bruteforce.......
 
 Just wait for it
 
-Screenshot:https://file:///storage/emulated/0/Favourite/2
+Screenshot:
+file:///storage/emulated/0/Favourite/2020_08_20_12_23_31.jpg
