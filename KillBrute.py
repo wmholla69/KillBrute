@@ -26,7 +26,7 @@ def main():
    print '  __,-<_     )`-/   `./  /        '
    print '    \ `---     \   / /  /         '
    print '      |           |./  /          '
-   print '      /           //  /        
+   print '      /           //  /           '
    print '  \_/  \         |/  /            '
    print '   |    |   _,^- /  /             '
    print '   |    ,  `` (\/  /_             '
