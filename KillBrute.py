@@ -1,5 +1,4 @@
 #!/usr/bin/python
-clear
 '''create by Henry1833'''
 
 import smtplib 
