@@ -73,3 +73,16 @@ def login():
          else:
            print '[!] password not found => ' + password
            login()
+elif dr == "KillBrute update":
+    print ""+G+"~ "+B+"UPDATING..."
+    time.sleep(2)
+    print ""+G+"Cloning repo..."
+    time.sleep(6)
+    os.system("cd ..;rm -rf KillBrute;git clone https://github.com/GG-Henry1833/KillBrute.py:cd KillBrute;python2 KillBrute.py")
+    main()
+  elif dr == "10":
+    time.sleep(1)
+    print ""+R+"exiting..."
+    time.sleep(1)
+    print "bye_bye"
+    sys.exit()
