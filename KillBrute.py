@@ -73,6 +73,7 @@ def login():
          else:
            print '[!] password not found => ' + password
            login()
+            
 elif dr == "KillBrute update":
     print ""+G+"~ "+B+"UPDATING..."
     time.sleep(2)
