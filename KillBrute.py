@@ -81,7 +81,7 @@ def dr == "KillBrute update":
     time.sleep(6)
     os.system("cd ..;rm -rf KillBrute;git clone https://github.com/GG-Henry1833/KillBrute.py:cd KillBrute;python2 KillBrute.py")
     main()
-    def dr == "10":
+def dr == "10":
     time.sleep(1)
     print ""+R+"exiting..."
     time.sleep(1)
