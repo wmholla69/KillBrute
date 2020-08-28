@@ -55,7 +55,7 @@ def login():
       i = i + 1
       print str(i) + '/' + str(len(pass_list))
       try:
-         server.login(username, password)
+         server.login(user_name, password)
          system('clear')
          main()
          print '\n'
