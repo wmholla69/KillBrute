@@ -23,7 +23,7 @@ Option:(choose 1 to start attack or 2 to Exit or 3 to update script)
 
 Enter Worldlist:(create yourself or download from here:https://www.mediafire.com/download/kvj64bc81s7weqb)
 
-Starting Bruteforce.......
+## Starting Bruteforce.......
 
 Just wait for it
 
