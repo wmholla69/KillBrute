@@ -3,19 +3,12 @@
 
 # Installation:
 $ apt update && apt upgrade
-
 $ git clone https://github.com/GG-Henry1833/KillBrute
-
 $ pkg install python
-
 $ pkg install python2
-
 $ cd
-
 $ ls
-
 $ cd KillBrute
-
 $ python2 KillBrute.py
 
 ----------------------------
