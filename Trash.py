@@ -69,6 +69,3 @@ def login():
             print '[+] this account has been hacked, password :' + password + '  ^_^'
         
             break
-         else:
-           print '[!] password not found => ' + password
-         login()
