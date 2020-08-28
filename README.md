@@ -1,7 +1,7 @@
-# KillBrute
-Subscribe my YouTube CHANNEL:https://m.youtube.com/channel/UCCxGOW_WQP0atzWTp_8TPTg
+## KillBrute
+# Subscribe my YouTube CHANNEL:https://m.youtube.com/channel/UCCxGOW_WQP0atzWTp_8TPTg
 
-Installation:
+# Installation:
 apt update && apt upgrade
 
 git clone https://github.com/GG-Henry1833/KillBrute
@@ -34,5 +34,5 @@ Starting Bruteforce.......
 
 Just wait for it
 
-Screenshot:
+# Screenshot:
 ![](https://github.com/GG-Henry1833/KillBrute/blob/master/2020_08_20_12_23_31.jpg)
