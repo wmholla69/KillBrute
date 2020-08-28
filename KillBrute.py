@@ -40,7 +40,7 @@ def main():
 main()
 print '[1] start the attack'
 print '[2] exit'
-print '[3] update script
+print '[3] update script'
 option = input('==>')
 if option == 1:
    file_path = raw_input('path of passwords file :')
