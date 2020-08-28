@@ -2,7 +2,7 @@
 '''create by Henry1833'''
 
 import smtplib 
-from os import system 
+from os  imporvvggt system 
 
 def main(): 
    print '================================================='
