@@ -1,6 +1,7 @@
 #!/usr/bin/python
 '''create by Henry1833'''
 
+import time
 import os
 import smtplib 
 from os import system 
@@ -39,12 +40,20 @@ def main():
 main()
 print '[1] start the attack'
 print '[2] exit'
+print '(3) update script
 option = input('==>')
 if option == 1:
    file_path = raw_input('path of passwords file :')
 else:
    system('clear')
    exit()
+else:
+   print ""+G+"~ "+B+"UPDATING..."
+   time sleep (2)
+   print ""+G+"Cloning repo..."
+   time sleep (6)
+   os.system("cd KillBrute;rm -rf Killbrute;git clone https://github.com/GG-Henry1833/KillBrute;cd KillBrute;python2 KillBrute.py")
+   main()
 pass_file = open(file_path,'r')
 pass_list = pass_file.readlines()
 def login():
