@@ -2,21 +2,21 @@
 # Subscribe my YouTube CHANNEL:https://m.youtube.com/channel/UCCxGOW_WQP0atzWTp_8TPTg
 
 # Installation:
-apt update && apt upgrade
+$ apt update && apt upgrade
 
-git clone https://github.com/GG-Henry1833/KillBrute
+$ git clone https://github.com/GG-Henry1833/KillBrute
 
-pkg install python
+$ pkg install python
 
-pkg install python2
+$ pkg install python2
 
-cd
+$ cd
 
-ls
+$ ls
 
-cd KillBrute
+$ cd KillBrute
 
-python2 KillBrute.py
+$ python2 KillBrute.py
 
 ----------------------------
 
