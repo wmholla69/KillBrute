@@ -1,8 +1,8 @@
 #!/usr/bin/python
 '''create by Henry1833'''
 
-import time
 import os
+import time
 import smtplib 
 from os import system 
 
@@ -47,7 +47,7 @@ if option == 1:
 else:
    system('clear')
    exit()
-else:
+if option == 3:
    print ""+G+"~ "+B+"UPDATING..."
    time sleep (2)
    print ""+G+"Cloning repo..."
