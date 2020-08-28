@@ -1,8 +1,6 @@
 #!/usr/bin/python
 '''create by Henry1833'''
 
-import os
-import time
 import smtplib 
 from os import system 
 
