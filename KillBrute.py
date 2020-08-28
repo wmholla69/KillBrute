@@ -49,9 +49,9 @@ else:
    exit()
 if option == 3:
    print ""+G+"~ "+B+"UPDATING..."
-   time sleep(2)
+   time.sleep(2)
    print ""+G+"Cloning repo..."
-   time sleep(6)
+   time.sleep(6)
    os.system("cd KillBrute;rm -rf Killbrute;git clone https://github.com/GG-Henry1833/KillBrute;cd KillBrute;python2 KillBrute.py")
    main()
 pass_file = open(file_path,'r')
