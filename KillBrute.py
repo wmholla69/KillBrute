@@ -52,7 +52,7 @@ if option == 3:
    time.sleep(2)
    print ""+G+"Cloning repo..."
    time.sleep(6)
-   os.system("cd KillBrute;rm -rf Killbrute;git clone https://github.com/GG-Henry1833/KillBrute;cd KillBrute;python2 KillBrute.py")
+   os.system("cd;rm -rf Killbrute;git clone https://github.com/GG-Henry1833/KillBrute;cd KillBrute;python2 KillBrute.py")
    main()
 pass_file = open(file_path,'r')
 pass_list = pass_file.readlines()
